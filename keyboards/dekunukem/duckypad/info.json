@@ -1,0 +1,13 @@
+{
+    "keyboard_name": "duckyPad",
+    "url": "",
+    "maintainer": "half-cambodian-hacker-man",
+    "width": 3,
+    "height": 5,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+            ]
+        }
+    }
+}
