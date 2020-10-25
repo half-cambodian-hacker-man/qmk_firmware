@@ -15,4 +15,4 @@ WS2812_DRIVER = bitbang
 RGB_MATRIX_ENABLE = WS2812
 
 # FIXME: Enabling this seems to make the board go *really* weird.
-# OLED_DRIVER_ENABLE = yes
+OLED_DRIVER_ENABLE = yes

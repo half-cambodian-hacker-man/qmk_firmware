@@ -26,5 +26,7 @@
 #define I2C1_SDA_BANK GPIOB
 #define I2C1_SCL 8
 #define I2C1_SDA 9
+#define I2C1_SCL_PAL_MODE 1
+#define I2C1_SDA_PAL_MODE 1
 
-#define OLED_DISPLAY_ADDRESS 0x78
+// #define OLED_DISPLAY_ADDRESS 0x78
