@@ -16,3 +16,6 @@ RGBLIGHT_ENABLE = no
 # TODO: Can we get this working with SPI?
 WS2812_DRIVER = bitbang
 RGB_MATRIX_ENABLE = WS2812
+
+# FIXME: Enabling this seems to make the board go *really* weird.
+# OLED_DRIVER_ENABLE = yes
