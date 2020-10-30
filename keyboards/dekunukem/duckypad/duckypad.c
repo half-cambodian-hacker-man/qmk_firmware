@@ -27,3 +27,11 @@ led_config_t g_led_config = { {
 } };
 
 #endif
+
+void keyboard_pre_init_kb(void) {
+    setPinOutput(A0);
+    writePinHigh(A0);
+    writePinLow(A0);
+    wait_ms(10);
+    writePinHigh(A0);
+}
